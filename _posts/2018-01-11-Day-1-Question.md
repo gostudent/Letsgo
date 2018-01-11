@@ -48,4 +48,4 @@ published: true
             ans :=(max/min)
             fmt.Printf("%v\n",ans);
         }
-}
+        }
