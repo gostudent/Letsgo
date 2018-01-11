@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Day 1
 # Issue 1
