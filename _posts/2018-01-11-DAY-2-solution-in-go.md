@@ -24,7 +24,7 @@ For each element of the array, print rank of that element .
 - 3
 - 20 30 10 
 
-##### Output :
+###### Output :
 
 - 2.0 3.0 1.0
 
@@ -34,7 +34,7 @@ For each element of the array, print rank of that element .
 - 1 2 5 2 1 60 3
 
 
-##### Output :
+###### Output :
 
 - 1.5 3.5 6.0 3.5 1.5 7.0 5.0
 
