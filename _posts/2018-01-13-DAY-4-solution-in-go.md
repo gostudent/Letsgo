@@ -50,6 +50,7 @@ For each T print the size of the longest sub-sequence satisfying the above crite
 
 - **Language Used:** go
 
+```go
 package main
 import "fmt"
 
@@ -111,4 +112,5 @@ func main(){
 		}
 		fmt.Printf("\n")
 	}
-} 
+}
+```
