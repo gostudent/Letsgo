@@ -1,5 +1,10 @@
 ---
+
 published: true
+author: marshallKR7
+layout: post
+title: Even-Odd turn game Solution in Go
+
 ---
 # Day 1
 # Issue 1
@@ -18,7 +23,7 @@ published: true
 
 ## **One of the solution:**
 
-**Language:**Go
+**Language:** Go
 ```go
  package main
  import "fmt"
