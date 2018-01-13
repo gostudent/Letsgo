@@ -25,13 +25,13 @@ For each test case, print the value of max(X, Y) ÷ min(X, Y) after the complete
 
 #### Sample TestCase
 
-###### Sample Input :
+###### Input :
 - 2
 - 1 2 1
 - 3 7 2
 
 
-###### Sample Output :
+###### Output :
 - 1
 - 2
 
