@@ -1,6 +1,6 @@
 ---
 published: true
-author: Nikita Jain
+author: nikki1016
 layout: post
 title: Even-Odd turn game Solution in Go
 ---
