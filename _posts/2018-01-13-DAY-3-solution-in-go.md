@@ -49,7 +49,8 @@ For each test case output a new line with a single integer which is the team num
 ## Solution
 
 - **Language Used:** go
-,,,
+
+```
 package main
 import "fmt"
 
@@ -69,4 +70,4 @@ func main(){
 	 	}
 	 }
 }
-,,,
+```
