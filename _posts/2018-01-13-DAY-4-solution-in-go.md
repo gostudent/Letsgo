@@ -1,5 +1,8 @@
 ---
 published: true
+author: Suras Kumar Nayak
+layout: post
+title: Beautiful SubSequence Solution in Go
 ---
 
 ## Beautiful SubSequence
