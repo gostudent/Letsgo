@@ -1,6 +1,6 @@
 ---
 published: true
-author: Suras Kumar Nayak
+author: surasnayak
 layout: post
 title: Find out the Team Solution in Go
 ---
