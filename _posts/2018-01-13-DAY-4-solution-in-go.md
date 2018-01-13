@@ -1,6 +1,6 @@
 ---
 published: true
-author: Suras Kumar Nayak
+author: surasnayak
 layout: post
 title: Beautiful SubSequence Solution in Go
 ---
