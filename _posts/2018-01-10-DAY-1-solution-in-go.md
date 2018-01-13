@@ -1,5 +1,8 @@
 ---
 published: true
+author: Nikita Jain
+layout: post
+title: Even-Odd turn game Solution in Go
 ---
 
 ## Even-Odd turn game
