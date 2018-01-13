@@ -1,5 +1,8 @@
 ---
 published: true
+author: Suras Kumar Nayak
+layout: post
+title: Find out the Team Solution in Go
 ---
 
 ## Find out the Team
