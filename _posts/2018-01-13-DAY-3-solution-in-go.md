@@ -50,7 +50,7 @@ For each test case output a new line with a single integer which is the team num
 
 - **Language Used:** go
 
-```
+```go
 package main
 import "fmt"
 
