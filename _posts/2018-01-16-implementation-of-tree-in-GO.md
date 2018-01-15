@@ -2,7 +2,7 @@
 published: true
 author: surasnayak
 layout: post
-title: Implementation of Binary Tree Datastructure in GO
+title: Implementation of Tree Datastructure in GO
 ---
 
 ## Tree Datastructure
