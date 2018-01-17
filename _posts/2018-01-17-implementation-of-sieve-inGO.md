@@ -42,7 +42,7 @@ We are done!
 
 - If any integer  is composite, then  has a prime divisor less than or equal to .
 
- -Since for any number  in the list, we are looking all prime numbers up to , we are indeed separating all composite numbers.
+- Since for any number  in the list, we are looking all prime numbers up to , we are indeed separating all composite numbers.
  Hence Sieve of Eratosthenes generates all primes numbers less than the upper limit. 
  
  ## Code for implementaion of queue data structure in GO :
