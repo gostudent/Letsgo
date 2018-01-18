@@ -1,0 +1,67 @@
+---
+published: true
+author: GOVINDDIXIT
+layout: post
+title: Longest sub-array having sum k
+---
+
+## Question :
+
+Given an array arr[] of size n containing integers. The problem is to find the length of the longest sub-array having sum equal to the given value k.
+
+## Input :
+
+The first line of input contains an integer T denoting the number of test cases. Each test case contains three lines, first line contains the number of elements in the array, second line is the array and third line is the value of k.​
+## Output :
+
+Print Each answers in new line.
+
+## Sample TestCase :
+
+### Input :
+2
+6
+10 5 2 7 1 9
+15
+6
+-5 8 -14 2 4 12
+-5
+### Output :
+4
+5
+## Solution :
+
+```go
+package main
+import "fmt"
+
+func main(){
+	var t int
+	fmt.Scan(&t)
+	for i:=0; i<t; i++ {
+		var n int
+		fmt.Scan(&n)
+		var ar [10000]int
+		for j:=0; j<n; j++ {
+			fmt.Scan(&ar[j])
+		}
+		var m, a int
+		m  = 0
+		fmt.Scan(&a)
+		for j:=0; j<n; j++ {
+			for k:=j+1; k<n; k++ {
+				sum := 0
+				for l:=j; l<=k; l++ {
+					sum += ar[l]
+				}
+				if sum == a {
+					if m < k-j+1 {
+						m = k-j+1
+					}
+				}
+			}
+		}
+		fmt.Println(m)
+	}
+}
+```
