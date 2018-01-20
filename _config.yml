@@ -26,11 +26,11 @@ subscribers: True # you need to connect an external service for this to work,
 #facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: Letsgo # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-82762642-6 
 
 # Permalinks
 permalink: /:title
